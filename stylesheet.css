@@ -1,0 +1,40 @@
+body{
+	font-family: 'Baloo 2', cursive;
+	font-size: 1.5rem;
+	background-image: url(IMG/back3.jpg);
+	background-size: cover;
+	transition: all 0.7s;
+	color:  #DDF2FB;
+	padding: 0;
+}
+
+.buffer {
+	height: 2rem;
+}
+
+h1{
+	color: #AAD8EC;
+}
+
+h1:hover {
+	font-style: italic;
+	cursor: none;
+	color: #103D50;
+	text-decoration: underline;
+	font-weight: bolder;
+}
+
+img:hover{
+	transform: scale(1.3);
+	transition: all 1s;
+}
+
+.btn{
+	padding: 1rem 2rem;
+	background-color: #539BBA;
+}
+
+video:hover{
+	transform: scale(1.5);
+	transition: all 1s;
+}
